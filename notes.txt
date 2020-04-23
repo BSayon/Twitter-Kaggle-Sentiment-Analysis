@@ -1,0 +1,4 @@
+- Keep Neutral reviews text as it is
+- Try doing word_index_map separately for positive reviews and negative reviews
+- two separate vectors for positive and negative bag of words
+- cross check with the Train data
